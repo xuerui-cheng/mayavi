@@ -1,3 +1,3 @@
 def quality_gate_demo():
-    list = 1
-    return list
+    number = 1
+    return number
