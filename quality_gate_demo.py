@@ -1,2 +1,2 @@
-list = 1
-print(list)
+def failed_funct(list):
+    return list
